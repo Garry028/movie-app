@@ -10,7 +10,7 @@ const MovieGrid = () => {
 
   const API_KEY = 'https://api.themoviedb.org/3/movie/popular?api_key=59a8b9eb019fa806af94086412d50571';
   const IMG_URL = 'https://image.tmdb.org/t/p/w500/';
-  const API_SEARCH = 'https://api.themoviedb.org/3/search/company?api_key=59a8b9eb019fa806af94086412d50571&query';
+  const API_SEARCH = 'https://api.themoviedb.org/3/search/movie?api_key=59a8b9eb019fa806af94086412d50571&query';
 
 
   const [query, setQuery] = useState(''); // SEARCH QUERY
