@@ -1,10 +1,6 @@
 # Simple Movie App With React
 
-To start the project run following command
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Live Site link 
+https://movie-app-psi-teal.vercel.app/
 
 
